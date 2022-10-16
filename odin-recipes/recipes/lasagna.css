@@ -1,0 +1,15 @@
+*{
+    background-color: blanchedalmond;
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1,h2{
+    text-align: center;
+    color:red;
+}
+
+img{
+    height:auto;
+    width: 100%;
+}
+

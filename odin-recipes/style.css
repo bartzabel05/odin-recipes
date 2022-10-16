@@ -1,0 +1,27 @@
+*{
+    font-family:serif,monospace;
+    background-color: blanchedalmond;
+}
+
+.zuppa{
+    font-size:larger;
+}
+
+
+
+.rutabaga{
+    font-size:larger
+}
+
+h1{
+    text-shadow: 25em;
+    background-color: antiquewhite;
+    text-align:center;
+}
+
+a{
+    color:brown;
+}
+a:visited{
+    color:purple;
+}
